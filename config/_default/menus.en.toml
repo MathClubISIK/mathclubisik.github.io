@@ -157,11 +157,6 @@ pageRef = "participate"
 weight = 2
 
 [[footer]]
-name = "Events"
-pageRef = "news_and_events"
-weight = 3
-
-[[footer]]
 name = "Mailing List"
-url = "https://forms.gle/13cXVcVySETrEv8W7"
+url = "https://forms.gle/ADbmMwYo6HW5dwZz5"
 weight = 1
