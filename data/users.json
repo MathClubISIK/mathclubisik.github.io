@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bikram Halder",
+    "image": "img/team/bikram_halder.jpg",
+    "bio": "",
+    "creds": "M. Math, 1st Year",
+    "social": [
+      { "github": "https://github.com/BikramHalder" },
+      { "envelope": "mailto:bikram0x@outlook.com" },
+      { "instagram": "https://instagram.com/_prowessj_" }
+    ]
+  },
+  {
+    "name": "Saraswata Sensarma",
+    "image": "img/team/saraswata_sensarma.jpg",
+    "bio": "",
+    "creds": "M. Math, 1st Year",
+    "social": [
+      { "envelope": "mailto:sensarma.math@gmail.com" },
+      { "instagram": "https://instagram.com/saraswatasensarma" }
+    ]
+  }
+]
