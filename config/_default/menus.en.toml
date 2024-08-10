@@ -1,0 +1,68 @@
+
+[[navbar]]
+identifier = "activities"
+name = "Activities"
+url = "/activities/"
+weight = 3
+
+[[navbar]]
+identifier = "expository_talks"
+name = "Expository Talks"
+url = "/activities/expository_talks"
+parent = "activities"
+weight = 1
+
+[[navbar]]
+identifier = "foundational_courses"
+name = "Foundational Courses"
+url = "/activities/foundational_courses"
+parent = "activities"
+weight = 2
+
+[[navbar]]
+identifier = "lecture_series"
+name = "Lecture Series"
+url = "/activities/lecture_series"
+parent = "activities"
+weight = 3
+
+[[navbar]]
+identifier = "reading_groups"
+name = "Reading Groups"
+url = "/activities/reading_groups"
+parent = "activities"
+weight = 4
+
+# ----------------------------------------
+
+[[navbar]]
+identifier = "participate"
+name = "Participate"
+url = "/participate/"
+weight = 4
+
+[[navbar]]
+identifier = "present_talks"
+name = "Present Talks"
+url = "/participate/present_talks"
+parent = "participate"
+
+[[navbar]]
+identifier = "submit_problem"
+name = "Submit Problem"
+url = "/participate/submit_problem"
+parent = "participate"
+
+[[navbar]]
+identifier = "submit_doubts"
+name = "Submit Doubts"
+url = "/participate/submit_doubts"
+parent = "participate"
+
+[[navbar]]
+identifier = "submit_articles_and_notes"
+name = "Submit Articles and Notes"
+url = "/participate/submit_articles_and_notes"
+parent = "participate"
+
+# ----------------------------------------

@@ -1,0 +1,41 @@
+{{ if or .Params.math .Site.Params.math }}
+<link rel="stylesheet" href="https://www.unpkg.com/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+
+<script defer src="https://www.unpkg.com/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+
+<script defer src="https://www.unpkg.com/katex@0.16.11/dist/contrib/auto-render.min.js" crossorigin="anonymous"
+  onload="renderMathInElement(document.body)"></script>
+
+<script>
+  // From https://jsfiddle.net/edemaine/hazzrd1d/
+
+  document.addEventListener('copy', function (event) {
+    const selection = window.getSelection()
+    if (selection.isCollapsed)
+    {
+      return  // default action OK
+    }
+    const fragment = selection.getRangeAt(0).cloneContents()
+    const katexs = fragment.querySelectorAll('.katex')
+    if (katexs.length === 0)
+    {
+      return  // default action OK
+    }
+    katexs.forEach(function (element) {
+      const texSource = element.querySelector('annotation')
+      if (texSource)
+      {
+        element.replaceWith(texSource)
+        texSource.innerHTML = '\\(' + texSource.innerHTML + '\\)'
+      }
+    })
+    fragment.querySelectorAll('.katex-display annotation').forEach(function (element) {
+      let strLength = element.innerHTML.length
+      element.innerHTML = '$$' + element.innerHTML.slice(2, strLength - 2) + '$$'
+    })
+    event.clipboardData.setData('text/plain', fragment.textContent)
+    event.clipboardData.setData('text/html', selection.getRangeAt(0).cloneContents())
+    event.preventDefault()
+  })
+</script>
+{{ end }}
