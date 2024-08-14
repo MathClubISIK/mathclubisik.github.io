@@ -1,8 +1,10 @@
 ---
 title: "Submit Problems"
 description: "Submit Problems at the Students' Math Club at Indian Statistical Institute, Kolkata."
-math: true
+summary: "Submit your problems (made by you or from some source) to us and we will post them on our website."
 ---
+
+{{< katex >}}
 
 If you want to submit questions for weekly contests, general collection on website or which are of puzzle type, it is highly encouraged! We would love to have such puzzles and questions from you. However, along with the question, you should also have a solution ready.
 

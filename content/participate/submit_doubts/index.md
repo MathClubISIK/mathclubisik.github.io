@@ -1,8 +1,10 @@
 ---
 title: "Submit Doubts"
 description: "Submit Doubts at the Students' Math Club at Indian Statistical Institute, Kolkata."
-math: true
+summary: "Submit your doubts to us and we will try to get back to you as soon as possible."
 ---
+
+{{< katex >}}
 
 Here are a few Guidelines you need to follow
 
