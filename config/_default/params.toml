@@ -1,7 +1,7 @@
 navbar_title = 'Math Club, ISI Kolkata'
 footer = "&copy; 2024 by Math Club, ISI Kolkata"
 author = "Math Club, ISI Kolkata"
-color_scheme = "dark"
+color_scheme = "light"
 
 enable_zooming_js = true
 enable_header_anchor = true
@@ -15,7 +15,7 @@ enable_twitter_cards = false
 
 # Collapsible Menu
 enable_collapsible_toc = true
-enable_collapsible_changelogs = true
+enable_collapsible_changelogs = false
 
 [list_layout]
 enable_group_by_year = true
