@@ -66,3 +66,9 @@ url = "/participate/submit_articles_and_notes"
 parent = "participate"
 
 # ----------------------------------------
+
+[[navbar]]
+identifier = "members"
+name = "Members"
+url = "/members"
+weight = 5

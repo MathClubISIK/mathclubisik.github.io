@@ -1,7 +1,10 @@
 ---
 title: "Participate"
 description: "Actively participate in the activities of Students' Math Club at Indian Statistical Institute, Kolkata."
+type: "bookcase"
 ---
+
+{{< katex >}}
 
 This a theorem which we claimed recently. The **only if** part is obvious, can you help us prove the **if** part?
 
