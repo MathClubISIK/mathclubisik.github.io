@@ -72,3 +72,21 @@ identifier = "members"
 name = "Members"
 url = "/members"
 weight = 5
+
+[[navbar]]
+identifier = "members_2024_25"
+name = "Members 2024-'25"
+url = "/members/ay_2024_25"
+parent = "members"
+
+[[navbar]]
+identifier = "members_2023_24"
+name = "Members 2023-'24"
+url = "/members/ay_2023_24"
+parent = "members"
+
+[[navbar]]
+identifier = "members_2022_23"
+name = "Members 2022-'23"
+url = "/members/ay_2022_23"
+parent = "members"
