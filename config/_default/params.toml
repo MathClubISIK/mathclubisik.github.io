@@ -11,14 +11,19 @@ enable_math = false
 
 # SEO
 enable_open_graph = true
-enable_twitter_cards = false
+enable_twitter_cards = true
 
 # Collapsible Menu
 enable_collapsible_toc = true
 enable_collapsible_changelogs = false
+toc_position = "right"                # "top" | "right"
+
+# Navbar
+navbar_show_all_languages = false
+navbar_width = "normal"           # "normal" | "wide" | "extra-wide"
 
 [list_layout]
-enable_group_by_year = true
+enable_group_by_year = false
 enable_show_date = false
 enable_pagination = true
 
