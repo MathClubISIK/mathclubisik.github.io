@@ -16,3 +16,5 @@ Here are a few guidelines you need to follow. To present a talk, fill the form g
 After we receive your form, we will go through it and contact you back through the mail id mentioned. We will pick few options for a tentative date and let you know. Following that, you have to choose a date and send your final topic, abstract and pre-requisite (this time compulsory). We shall finalise the same and post it on our website.
 
 If you are interested to give a talk or a lecture series, fill the following form and we will get back to you as soon as possible.
+
+{{< icon vendor="simple" name="googleforms" link="https://forms.gle/HNWPrp4AsvvwgEAk7" title="Submit your talk" >}}

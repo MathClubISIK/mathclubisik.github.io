@@ -5,6 +5,7 @@ summary: "Submit your articles and notes which may be of interest to the student
 ---
 
 {{< katex >}}
+{{< breadcrumbs >}}
 
 We encourage you to write articles and notes throughout your time at ISI. If you are interested and do not mind, feel free to contact us and send us your articles/notes. We shall post the same in our website to give easy access to every student of ISIB and beyond. Right now, we shall be accepting the following:
 

@@ -5,6 +5,7 @@ type: "bookcase"
 ---
 
 {{< katex >}}
+{{< breadcrumbs >}}
 
 This a theorem which we claimed recently. The **only if** part is obvious, can you help us prove the **if** part?
 

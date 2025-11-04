@@ -6,5 +6,6 @@ type: "postcard"
 ---
 
 {{< katex >}}
+{{< breadcrumbs >}}
 
 All special lectures given by esteemed professors at our [Math Club](/) are listed down here.

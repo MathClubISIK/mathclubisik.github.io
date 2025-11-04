@@ -6,6 +6,7 @@ type: "bookcase"
 ---
 
 {{< katex >}}
+{{< breadcrumbs >}}
 
 Join our [Math Club](/) for engaging expository talks every weekend, perfect for anyone eager to learn. Led by students and professors from ISI and other institutes, these talks cover everything from basic concepts to advanced research topics.
 

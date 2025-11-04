@@ -5,6 +5,7 @@ summary: "2 Groups | 4 Weeks | 2 Leaders"
 ---
 
 {{< katex >}}
+{{< breadcrumbs >}}
 
 ## Knot Theory
 

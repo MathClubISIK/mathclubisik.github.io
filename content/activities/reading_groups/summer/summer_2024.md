@@ -5,6 +5,7 @@ summary: "3 Groups | 5 Weeks | 15 Participants"
 ---
 
 {{< katex >}}
+{{< breadcrumbs >}}
 
 [TBA]
 
