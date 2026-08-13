@@ -90,3 +90,10 @@ identifier = "members_2022_23"
 name = "Members 2022-'23"
 url = "/members/ay_2022_23"
 parent = "members"
+
+
+[[navbar]]
+identifier = "calendar"
+name = "Calendar"
+url = "/calendar/"
+weight = 6
