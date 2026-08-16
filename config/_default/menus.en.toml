@@ -74,6 +74,18 @@ url = "/members"
 weight = 5
 
 [[navbar]]
+identifier = "members_2026_27"
+name = "Members 2026-'27"
+url = "/members/ay_2026_27"
+parent = "members"
+
+[[navbar]]
+identifier = "members_2025_26"
+name = "Members 2025-'26"
+url = "/members/ay_2025_26"
+parent = "members"
+
+[[navbar]]
 identifier = "members_2024_25"
 name = "Members 2024-'25"
 url = "/members/ay_2024_25"
@@ -91,6 +103,8 @@ name = "Members 2022-'23"
 url = "/members/ay_2022_23"
 parent = "members"
 
+
+# ----------------------------------------
 
 [[navbar]]
 identifier = "calendar"
