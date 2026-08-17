@@ -1,5 +1,5 @@
 baseURL = "https://mathclubisik.github.io"
-languageCode = "en"
+locale = "en"
 title = "Math Club, ISI Kolkata"
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "en"

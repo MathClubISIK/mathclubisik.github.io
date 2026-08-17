@@ -1,5 +1,5 @@
 [en]
 contentDir = "content"
-languageName = "English"
-languageCode = "en"
+label = "English"
+locale = "en"
 weight = 1
