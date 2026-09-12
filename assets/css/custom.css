@@ -265,3 +265,13 @@ html {
   font-family: "Computer Modern Sans";
   font-size: 13pt;
 }
+
+
+@media (min-width:1024px){
+
+body{
+    padding-left:1rem !important;
+    padding-right:1rem !important;
+}
+
+}

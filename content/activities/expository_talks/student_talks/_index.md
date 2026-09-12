@@ -1,7 +1,7 @@
 ---
 title: "Student Talks"
 description: "Talks given by students at the Students' Math Club at Indian Statistical Institute, Kolkata."
-summary: "Talks by students"
+summary: "Talks by institute students"
 type: "postcard"
 ---
 

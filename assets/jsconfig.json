@@ -2,7 +2,7 @@
  "compilerOptions": {
   "paths": {
    "*": [
-    "../themes/hugo-theme-monochrome/assets/*"
+    "..\\themes\\hugo-theme-monochrome\\assets\\*"
    ]
   }
  }

@@ -59,11 +59,11 @@ parent = "participate"
 # url = "/participate/submit_doubts"
 # parent = "participate"
 
-# [[navbar]]
-# identifier = "submit_articles_and_notes"
-# name = "Submit Articles and Notes"
-# url = "/participate/submit_articles_and_notes"
-# parent = "participate"
+[[navbar]]
+identifier = "submit_articles_and_notes"
+name = "Submit Articles and Notes"
+url = "/participate/submit_articles_and_notes"
+parent = "participate"
 
 # ----------------------------------------
 
