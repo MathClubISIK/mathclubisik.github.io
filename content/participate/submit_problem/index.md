@@ -1,6 +1,8 @@
 ---
 title: "Submit Problems"
 description: "Submit Problems at the Students' Math Club at Indian Statistical Institute, Kolkata."
+
+bookcase_cover_src: "/thumbnails/question_mark.png"
 summary: "Submit your problems (made by you or from some source) to us and we will post them on our website."
 ---
 

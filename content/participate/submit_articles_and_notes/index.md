@@ -1,6 +1,8 @@
 ---
 title: "Submit Articles and Notes"
 description: "Submit Articles and Notes at the Students' Math Club at Indian Statistical Institute, Kolkata."
+
+bookcase_cover_src: "/thumbnails/question_mark.png"
 summary: "Submit your articles and notes which may be of interest to the students of ISI and beyond."
 ---
 

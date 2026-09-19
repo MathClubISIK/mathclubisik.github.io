@@ -1,6 +1,8 @@
 ---
 title: "Submit Doubts"
 description: "Submit Doubts at the Students' Math Club at Indian Statistical Institute, Kolkata."
+
+bookcase_cover_src: "/thumbnails/question_mark.png"
 summary: "Submit your doubts to us and we will try to get back to you as soon as possible."
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "Present Talks"
 description: "Present Talks at the Students' Math Club at Indian Statistical Institute, Kolkata."
+
+bookcase_cover_src: "/thumbnails/question_mark.png"
 ---
 
 Here are a few guidelines you need to follow. To present a talk, fill the form given on the website with the following details:

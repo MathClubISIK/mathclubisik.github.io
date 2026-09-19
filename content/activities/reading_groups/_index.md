@@ -1,6 +1,8 @@
 ---
 title: "Reading Groups"
 description: "DGRP at the Students' Math Club at Indian Statistical Institute, Kolkata."
+
+bookcase_cover_src: "/thumbnails/question_mark.png"
 summary: "Exploring different topics, discovering applications and related areas during the summer break."
 
 cascade:

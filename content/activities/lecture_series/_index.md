@@ -1,6 +1,8 @@
 ---
 title: "Lecture Series"
 description: "Lecture Series at the Students' Math Club at Indian Statistical Institute, Kolkata."
+
+bookcase_cover_src: "/thumbnails/question_mark.png"
 summary: "Lectrue Series by students"
 ---
 

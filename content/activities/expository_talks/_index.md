@@ -1,6 +1,8 @@
 ---
 title: "Expository Talks"
 description: "Expository Talks at the Students' Math Club at Indian Statistical Institute, Kolkata."
+
+bookcase_cover_src: "/thumbnails/question_mark.png"
 summary: "Expository Talks by the students and professors"
 type: "bookcase"
 ---

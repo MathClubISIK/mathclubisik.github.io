@@ -1,6 +1,8 @@
 ---
 title: "Invited Talks"
 description: "Talks given by students/researchers from other colleges or universitiesof India (or abroad) in Math Club at Indian Statistical Institute, Kolkata."
+
+bookcase_cover_src: "/thumbnails/question_mark.png"
 summary: "Talks by external students"
 type: "postcard"
 ---

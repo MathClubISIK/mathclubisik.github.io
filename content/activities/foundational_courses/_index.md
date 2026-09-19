@@ -1,6 +1,8 @@
 ---
 title: "Foundational Courses"
 description: "Foundational Courses at the Students' Math Club at Indian Statistical Institute, Kolkata."
+
+bookcase_cover_src: "/thumbnails/question_mark.png"
 summary: "To teach some topics that are considered fundamental and prerequisites for a number of talks / projects"
 type: "postcard"
 ---
