@@ -107,7 +107,15 @@ parent = "members"
 # ----------------------------------------
 
 [[navbar]]
+identifier = "articles"
+name = "Articles"
+url = "/articles/"
+weight = 6
+
+# ----------------------------------------
+
+[[navbar]]
 identifier = "calendar"
 name = "Calendar"
 url = "/calendar/"
-weight = 6
+weight = 7

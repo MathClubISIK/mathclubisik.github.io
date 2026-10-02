@@ -20,7 +20,7 @@ toc_position = "right"                # "top" | "right"
 
 # Navbar
 navbar_show_all_languages = false
-navbar_width = "normal"           # "normal" | "wide" | "extra-wide"
+navbar_width = "extra-wide"           # "normal" | "wide" | "extra-wide"
 
 [list_layout]
 enable_group_by_year = false
