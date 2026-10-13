@@ -12,6 +12,7 @@ description: "Articles and Notes from the Students' Math Club at Indian Statisti
 
 - [Ax-Grothendieck - Arkopriyo Hore](https://mathclubisical.github.io/Notes-and-Articles-2026/Talk%20Notes/Ax-Grothendieck%20-%20Arkopriyo%20Hore.pdf)
 - [Dirichlet's theorem - Kaustubh Dineshkumar Dubey](https://mathclubisical.github.io/Notes-and-Articles-2026/Talk%20Notes/Dirichlet's%20theorem%20-%20Kaustubh%20Dineshkumar%20Dubey.pdf)
+- [Fractal Geometry - Sarbartha Sarkar](https://mathclubisical.github.io/Notes-and-Articles-2026/Talk%20Notes/Fractal%20Geometry%20-%20Sarbartha%20Sarkar.pdf)
 - [Haar_Measure - Srijeet Bhattacharjee ](https://mathclubisical.github.io/Notes-and-Articles-2026/Talk%20Notes/Haar_Measure%20-%20Srijeet%20Bhattacharjee%20.pdf)
 - [Intro to Markov Chains - Aritrabha Majumdar](https://mathclubisical.github.io/Notes-and-Articles-2026/Talk%20Notes/Intro%20to%20Markov%20Chains%20-%20Aritrabha%20Majumdar.pdf)
 - [Kahn_Kalai_Conjecture - Atmaadeep Sengupta](https://mathclubisical.github.io/Notes-and-Articles-2026/Talk%20Notes/Kahn_Kalai_Conjecture%20-%20Atmaadeep%20Sengupta.pdf)
